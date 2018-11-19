@@ -17,4 +17,4 @@ app.post("/test", function(request, response) {
 
 app.listen(port);
 
-console.log('DATA TEST RESTful API server started on: ' + port);
+// console.log('DATA TEST RESTful API server started on: ' + port);
